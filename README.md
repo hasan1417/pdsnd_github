@@ -13,4 +13,4 @@ Highlight key insights.
 bikeshare.py
 
 ### Credits
-Udacity Course
+Udacity Course.
